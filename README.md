@@ -1,1 +1,1 @@
-# customer-propensity-modelling
+# customer_propensity_modular_code
