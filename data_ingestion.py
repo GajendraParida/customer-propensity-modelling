@@ -10,7 +10,7 @@ def fetch_multiple_dataframes(schema, queries, loc, chunksize=10000):
     # Set connection details based on the location (Azure or Local)
     if loc == 'Azure':
         server = ''
-        database = 'IFBDW'
+        database = ''
         username = ''
         password = ''
     elif loc == 'Local':
